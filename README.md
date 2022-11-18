@@ -47,3 +47,13 @@ This is the repo for the codes that I did while doing this course of ADI (Algori
 [4. Sort an array using merge sort](https://github.com/YuvrajxChopra/ADI-CodeQuotient/blob/main/Sorting/mergeSort.java)
 
 [5. Queries for K largest](https://github.com/YuvrajxChopra/ADI-CodeQuotient/blob/main/Sorting/solveQueries.java)
+
+
+## Greedy Algorithms
+[1. Fractional Knapsack](https://github.com/YuvrajxChopra/ADI-CodeQuotient/blob/main/Greedy%20Algorithms/knapsackProblem.java)
+
+[2. Interval scheduling Problem](https://github.com/YuvrajxChopra/ADI-CodeQuotient/blob/main/Greedy%20Algorithms/intervalScheduling.java)
+
+[3. Job Scheduling with deadlines](https://github.com/YuvrajxChopra/ADI-CodeQuotient/blob/main/Greedy%20Algorithms/jobScheduling.java)
+
+[4. Activity Selection Problem](https://github.com/YuvrajxChopra/ADI-CodeQuotient/blob/main/Greedy%20Algorithms/activitySelection.java)
